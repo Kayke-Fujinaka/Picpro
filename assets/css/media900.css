@@ -1,0 +1,99 @@
+@media (max-width: 900px) {
+
+    .container {
+        width: 80%;
+        padding: 0px 20px;
+    }
+    
+    .secaoDetalhesConta__itemTransacao {
+        width: 130px;
+        height: 130px;
+        text-align: center;
+    }
+
+    .secaoTransacao__qrCode p {
+        font-size: 20px;
+    }
+
+    .secaoTransacao {
+        margin-left: -5px;
+    }
+
+
+    .secaoTransacao__qrCode button {
+        width: 600px;
+        height: 70px;
+        font-size: 20px;
+
+    }
+
+    .secaoTransacao__qrCode a {
+        font-size: 20px;
+        margin-top: 24px;
+    }
+
+    .secaoTransacao__boleto h2 {
+        font-size: 20px;
+    }
+
+    .secaoTransacao__boleto p {
+        font-size: 20px;
+    }
+
+    .secaoTransacao__cobrar h2 {
+        font-size: 20px;
+    }
+
+    .secaoTransacao__cobrar p {
+        font-size: 20px;
+    }
+
+    .secaoTransacao__boleto input {
+        width: 540px;
+        height: 70px;
+        margin-top: 30px;
+        font-size: 15px;
+        padding: 0px 40px;
+    }
+
+    .secaoDetalhesConta__sobreSaldo p {
+        font-size: 24px;
+    }
+
+    .secaoDetalhesConta__sobreSaldo strong {
+        font-size: 24px;
+    }
+
+    .vizu img {
+        max-width: 45px;
+        max-height: 25px;
+    }
+
+    .secaoDetalhesConta__sobreSaldo button {
+        width: 210.14px;
+        font-size: 23px;
+        height: 50px;
+    }
+
+    .secaoDetalhesConta__itemTransacao img {
+        display: none;
+    }
+
+    .secaoDetalhesConta__itemTransacao p {
+        font-size: 18px;
+    }
+
+    .secaoTransacao__cobrar img {
+        width: 70%;
+        max-width: 90px;
+    }
+
+    .secaoDetalhesConta__itemTransacao p span {
+        display: none;
+    }
+
+    .secaoTransacao__cobrar img {
+        width: 100%;
+        max-width: 90px;
+    }
+}

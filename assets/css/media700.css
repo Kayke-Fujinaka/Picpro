@@ -1,0 +1,156 @@
+@media (max-width: 740px) {
+    .container {
+        width: 94%;
+        max-width: 1100px;
+        margin: 0 0px;
+        padding: 0px 10px;
+    }
+
+    .cabecalho figure img {
+        max-width: 100px;
+    }
+
+    .secaoDetalhesConta {
+        padding: 30px 0 30px;
+    }
+
+    .secaoDetalhesConta__sobreUsuario {
+        margin-bottom: 30px
+    }
+
+    .secaoDetalhesConta__sobreUsuario p {
+        font-size: 15px;
+        line-height: 7px;
+        padding-top: 7px;
+
+    }
+
+    .secaoDetalhesConta__sobreUsuario p strong {
+        font-size: 15px;
+    }
+
+    .secaoDetalhesConta__sobreUsuario .img-usu {
+        max-width: 50px;
+        max-height: 50px;
+    }
+
+    .secaoDetalhesConta__sobreUsuario .icon {
+        max-width: 30px;
+        max-height: 35px;
+        margin-right: 20px;
+        margin-top: 8px;
+    }
+
+    .secaoDetalhesConta__sobreUsuario .icon-2 {
+        max-width: 35px;
+        max-height: 35px;
+        margin-top: 8px;
+    }
+
+    .secaoDetalhesConta__sobreSaldo p {
+        font-size: 18px;
+        margin-top: -7px;
+    }
+
+    .secaoDetalhesConta__sobreSaldo strong {
+        font-size: 18px;
+        line-height: 10px;
+    }
+
+    .vizu img {
+        max-width: 35px;
+        max-height: 20px;
+        margin-top: -6px;
+    }
+
+    .secaoDetalhesConta__sobreSaldo button {
+        width: 160.14px;
+        font-size: 18px;
+        height: 35px;
+        border-radius: 10px;
+    }
+
+    .secaoDetalhesConta__itemTransacao {
+        width: 100px;
+        height: 100px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .secaoDetalhesConta__itemTransacao p {
+        font-size: 11px;
+        line-height: 0px;
+    }
+
+    .secaoTransacao__qrCode button {
+        width: 80%;
+    }
+
+
+    .secaoTransacao {
+        margin-left: 0px;
+        border-radius: 0px 0px 0px 0px;
+    }
+
+    .secaoTransacao__avisoSelecao p {
+        font-size: 16px;
+        padding: 10px 60px;
+    }
+
+    .rodape__menuPrincipal li a p {
+        margin-top: 27px;
+        font-size: 17px;
+    }
+
+    .secaoTransacao__avisoSelecao img {
+        height: 120px;
+    }
+
+    .secaoTransacao__boxOpcao img {
+        width: 100%;
+        max-width: 60px;
+        margin-right: 10px;
+        cursor: pointer;
+    }
+
+    .secaoTransacao__boxOpcao p {
+        font-size: 18px;
+        line-height: 20px;
+        color: #2D2D2D;
+    }
+
+    .secaoTransacao__boxOpcao {
+        max-width: 600px;
+    }
+
+    .img-inicio {
+        max-width: 50px;
+        max-height: 43px;
+    }
+
+    .img-carteira {
+        max-width: 38px;
+        max-height: 32px;
+    }
+
+    .img-pagar {
+        max-width: 128px;
+        max-height: 128px;
+    }
+
+    .img-notificação {
+        max-width: 35px;
+        max-height: 48px;
+    }
+
+    .img-bolsa {
+        max-width: 50px;
+        max-height: 46px;
+    }
+
+    .secaoTransacao__boleto input {
+        width: 380px;
+        font-size: 12px;
+        height: 55px;
+    }
+}

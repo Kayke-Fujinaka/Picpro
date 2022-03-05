@@ -1,0 +1,37 @@
+@media (max-width: 1539px) {
+    .container {
+        width: 80%;
+        margin: 0 60px;
+    }
+
+    .cabecalho figure img {
+        max-width: 130px;
+    }
+
+    .secaoDetalhesConta__sobreUsuario p {
+        font-size: 22px;
+        line-height: 20px;
+    }
+
+    .secaoDetalhesConta__sobreUsuario p strong {
+        font-size: 22px;
+    }
+
+    .secaoDetalhesConta__sobreUsuario .img-usu {
+        max-width: 60px;
+        max-height: 60px;
+    }
+
+    .secaoDetalhesConta__sobreSaldo p {
+        font-size: 27px;
+    }
+
+    .secaoDetalhesConta__sobreSaldo strong {
+        font-size: 27px;
+    }
+
+    .vizu img {
+        max-width: 50px;
+        max-height: 30px;
+    }
+}

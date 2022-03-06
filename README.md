@@ -4,7 +4,7 @@
 
 >  A page made jointly by Picpay and Kenzie Academy.
 
-Confira a aplicação: https://kayke-fujinaka.github.io/Picpro/
+Confira a aplicação: https://picpro.netlify.app
 
 ## 🚀 Technologies
 

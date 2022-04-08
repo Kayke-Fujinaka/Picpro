@@ -1,6 +1,6 @@
 # Projeto Picpro (Kenzie Academy + PicPay)
 
-<img src="./assets/img/gif.gif" width="800px" height="450px" alt="Gif do Teste">
+<img src="./assets/img/gif.gif" alt="Gif do Teste">
 
 >  A page made jointly by Picpay and Kenzie Academy.
 

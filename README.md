@@ -1,46 +1,49 @@
-# Projeto Picpro (Kenzie Academy + PicPay)
+# Project Picpro (Kenzie Academy + PicPay)
 
-<img src="./assets/img/gif.gif" alt="Gif do Teste">
+<img src="./assets/img/gif.gif" alt="Test Gif">
 
->  A page made jointly by Picpay and Kenzie Academy.
+> A page made jointly by Picpay and Kenzie Academy.
 
 Check the Application: https://picpro.netlify.app
 ## :page_facing_up: Explanation
 
-O projeto foi desenvolvido em um evento da Kenzie Academy em parceria com a Picpay. Assim, criando um projeto denominado PicPro que foi ministrado pelos instrutores da Kenzie Academy. O evento foi totalmente gratuito e estava disponível no Youtube por um tempo limitado.
+The project was developed at a Kenzie Academy event in partnership with Picpay. Thus, creating a project called PicPro that was taught by Kenzie Academy instructors. The event was completely free and available on Youtube for a limited time.
 
-O projeto foi dividido em 4 dias de aulas. A cada dia era uma tecnologia diferente, sendo elas: HTML, CSS e JavaScript. 
+The project was divided into 4 days of classes. Every day was a different technology, namely: HTML, CSS and JavaScript.
 
-- O primeiro dia eles ensinaram sobre a estruturação da página com HTML e a nomeação com algumas class. 
+- The first day they taught about structuring the page with HTML and naming it with some classes.
 
-- O segundo dia foi uma aula de Estilização que foi utilizado o CSS. Assim, deixando o site mais bonito e com a cor do projeto.
+- The second day was a styling class that used CSS. Thus, leaving the site more beautiful and with the color of the project.
 
-- O terceiro dia foi uma aula separada do projeto, a qual foi explicando uma aula inteira de JavaScript que seria utilizada na próxima aula.
+- The third day was a class separated from the project, which explained an entire class of JavaScript that would be used in the next class.
 
-- O quarto dia foi a utilização do JavaScript no projeto e dando as funções de mudar de seção.
+- The fourth day was the use of JavaScript in the project and giving the functions to change the section.
 
-O projeto tem um ponto interessante, pois as seções foram escondidas com Display None, mas com o JavaScript determinamos que aparecesse ao clicar na tela.
+The design has an interesting point, as the sections were hidden with Display None, but with JavaScript we determined that they would appear when clicking on the screen.
 
-Eu deixei o projeto responsivo ao fim de todo evento e arrumei alguns bugs como as seções não estarem totalmente de acordo com o Layout inicial, mas ele já está funcionando normalmente.
+I made the project responsive at the end of every event and fixed some bugs like the sections not being fully in accordance with the initial layout, but it is already working normally.
+
 ## 📁 Sections
 
 The site consists of 5 different sections:
 
-- **Home Page:** Uma página que mostra um aplicativo de banco da Picpay + Kenzie;
-- **QrCode Section:** É uma seção de QrCode para receber dinheiro;
-- **Pix Section:**  É uma seção para enviar um Pix
-- **Pagar Boleto Section:** É uma seção para pagar boleto atráves do código de barras;
-- **Cobrar Section:** É uma seção para pagar com alguns amigos.
+- **Home Page:** A page that shows a Picpay + Kenzie bank application;
+- **QrCode Section:** It is a QrCode section to receive money;
+- **Pix Section:** It is a section to send a Pix
+- **Pagar Boleto Section:** It is a section to pay the boleto through the barcode;
+- **Charge Section:** It's a section to pay with some friends.
+
 ## :dart: Features ##
 
-:heavy_check_mark: Estruturação da página;\
-:heavy_check_mark: Estilização da Página;\
-:heavy_check_mark: Utilizando JavaScript no Projeto;\
-:heavy_check_mark: Arrumando alguns bugs que não estavam funcionando a função do JavaScript;\
-:heavy_check_mark: Colocando Hover nos botões;\
-:heavy_check_mark: Deixando o site responsivo;\
-:heavy_check_mark: Arrumando o bug do Input colado da seção Pix e Cobrar;\
-:heavy_check_mark: Finalizado;
+:heavy_check_mark: Page structure;\
+:heavy_check_mark: Page Styling;\
+:heavy_check_mark: Using JavaScript in the Project;\
+:heavy_check_mark: Fixing some bugs that weren't working the JavaScript function;\
+:heavy_check_mark: Hovering the buttons;\
+:heavy_check_mark: Making the site responsive;\
+:heavy_check_mark: Fixing the Input bug pasted from the Pix and Charge section;\
+:heavy_check_mark: Done;
+
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
